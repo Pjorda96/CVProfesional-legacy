@@ -1,14 +1,3 @@
-/* ============================================================
-
- Template Name: MORACO - Personal Vcard Resume HTML Template
- Author: Marwa El-Manawy -- http://elmanawy.info
- Description: MORACO - Personal Vcard Resume HTML Template.
- Version: 2.0
-
- ===============================================================
- */
-
-
 /*================================================
  [  START LIST OF SCRIPTS ]
  ================================================
